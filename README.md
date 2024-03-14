@@ -11,7 +11,7 @@ Convenience: Ideal for situations where manual volume control is not practical, 
 To use FingerVolume Control, follow these steps:
 
 Clone the repository: `git clone https://github.com/divyanshu-vashu/VolumeControlUsingGesture.git`
-<p>Navigate to the project directory: `cd VolumeControlUsingGesture`</p>
+<p>Navigate to the project directory: `cd VolumeControlUsingGesture` </p>
 <p>Install necessary dependencies.</p>
 <p>Run the project on your device. `python main.py`</p>
 <h2>Usage</h2>
